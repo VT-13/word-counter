@@ -1,0 +1,2 @@
+Small steps make progress.
+Small projects make Python practice easier.
